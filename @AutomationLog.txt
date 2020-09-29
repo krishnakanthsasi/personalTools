@@ -1,0 +1,2 @@
+2020-09-24 14:12:39.862 time-activity-tracker.py[61] getBrowserUrl -> Find Control Timeout: {ControlType: EditControl}
+2020-09-24 17:01:20.390 time-activity-tracker.py[61] getBrowserUrl -> Find Control Timeout: {ControlType: EditControl}
